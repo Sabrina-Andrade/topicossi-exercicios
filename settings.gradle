@@ -1,0 +1,1 @@
+include "calculadora-rest-api", "calculadora-rest-core", "calculadora-rest-ear", "calculadora-rest-war"
